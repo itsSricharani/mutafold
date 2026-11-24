@@ -1,0 +1,22 @@
+name: mutafold
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - requests
+  - biopython
+  - rdkit
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - py3Dmol
+      - stmol
+      - streamlit
+      - pydssp
