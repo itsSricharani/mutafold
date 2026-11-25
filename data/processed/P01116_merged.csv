@@ -1,0 +1,633 @@
+position,wild_type,mutant,consequence,clinical_significance,n_sources,label,name,plddt,ss,rsa,buried
+2,T,P,missense,variant of uncertain significance,3,uncertain,T2P,95.69,E,0.2752225851912702,False
+2,T,S,missense,variant of uncertain significance,1,uncertain,T2S,95.69,E,0.2752225851912702,False
+2,T,S,missense,variant of uncertain significance,4,uncertain,T2S,95.69,E,0.2752225851912702,False
+3,E,D,missense,,1,unlabeled,E3D,97.88,E,0.27862224547882436,False
+4,Y,F,missense,variant of uncertain significance,3,uncertain,Y4F,98.5,E,0.032591909477193017,True
+4,Y,N,missense,variant of uncertain significance,3,uncertain,Y4N,98.5,E,0.032591909477193017,True
+5,K,E,missense,pathogenic,12,pathogenic,K5E,98.25,E,0.3586527369071087,False
+5,K,I,missense,,1,unlabeled,K5I,98.25,E,0.3586527369071087,False
+5,K,N,missense,pathogenic,13,pathogenic,K5N,98.25,E,0.3586527369071087,False
+5,K,Q,missense,likely pathogenic,3,pathogenic,K5Q,98.25,E,0.3586527369071087,False
+6,L,F,missense,variant of uncertain significance,3,uncertain,L6F,98.56,E,0.005330641910759803,True
+6,L,I,missense,variant of uncertain significance,1,uncertain,L6I,98.56,E,0.005330641910759803,True
+6,L,P,missense,,2,unlabeled,L6P,98.56,E,0.005330641910759803,True
+6,L,V,missense,variant of uncertain significance,4,uncertain,L6V,98.56,E,0.005330641910759803,True
+7,V,E,missense,likely pathogenic,4,pathogenic,V7E,98.06,E,0.040859770714151165,True
+7,V,L,missense,variant of uncertain significance,1,uncertain,V7L,98.06,E,0.040859770714151165,True
+7,V,M,missense,variant of uncertain significance,5,uncertain,V7M,98.06,E,0.040859770714151165,True
+8,V,I,missense,variant of uncertain significance,5,uncertain,V8I,98.0,E,0.0,True
+8,V,L,missense,variant of uncertain significance,1,uncertain,V8L,98.0,E,0.0,True
+9,V,A,missense,,1,unlabeled,V9A,96.88,E,0.0,True
+9,V,G,missense,,1,unlabeled,V9G,96.88,E,0.0,True
+9,V,I,missense,,2,unlabeled,V9I,96.88,E,0.0,True
+9,V,L,missense,,1,unlabeled,V9L,96.88,E,0.0,True
+10,G,A,missense,,1,unlabeled,G10A,97.0,E,0.01051527310302507,True
+10,G,V,missense,,2,unlabeled,G10V,97.0,E,0.01051527310302507,True
+10,G,R,missense,,2,unlabeled,G10R,97.0,E,0.01051527310302507,True
+11,A,G,missense,,2,unlabeled,A11G,95.31,-,0.10297604942976031,True
+11,A,S,missense,variant of uncertain significance,3,uncertain,A11S,95.31,-,0.10297604942976031,True
+11,A,V,missense,,2,unlabeled,A11V,95.31,-,0.10297604942976031,True
+12,G,A,missense,pathogenic,19,pathogenic,G12A,93.94,-,0.27019726773048386,False
+12,G,C,missense,pathogenic,24,pathogenic,G12C,93.94,-,0.27019726773048386,False
+12,G,C,missense,pathogenic,4,pathogenic,G12C,93.94,-,0.27019726773048386,False
+12,G,D,missense,pathogenic,42,pathogenic,G12D,93.94,-,0.27019726773048386,False
+12,G,R,missense,pathogenic,18,pathogenic,G12R,93.94,-,0.27019726773048386,False
+12,G,S,missense,pathogenic,22,pathogenic,G12S,93.94,-,0.27019726773048386,False
+12,G,V,missense,pathogenic,24,pathogenic,G12V,93.94,-,0.27019726773048386,False
+13,G,A,missense,pathogenic,2,pathogenic,G13A,94.06,-,0.29603952557696683,False
+13,G,C,missense,pathogenic,13,pathogenic,G13C,94.06,-,0.29603952557696683,False
+13,G,D,missense,pathogenic,30,pathogenic,G13D,94.06,-,0.29603952557696683,False
+13,G,R,missense,,1,unlabeled,G13R,94.06,-,0.29603952557696683,False
+13,G,R,missense,pathogenic,11,pathogenic,G13R,94.06,-,0.29603952557696683,False
+13,G,R,missense,pathogenic,3,pathogenic,G13R,94.06,-,0.29603952557696683,False
+13,G,S,missense,pathogenic,2,pathogenic,G13S,94.06,-,0.29603952557696683,False
+13,G,V,missense,pathogenic,9,pathogenic,G13V,94.06,-,0.29603952557696683,False
+14,V,E,missense,,1,unlabeled,V14E,97.0,-,0.006284990820198892,True
+14,V,G,missense,,2,unlabeled,V14G,97.0,-,0.006284990820198892,True
+14,V,I,missense,pathogenic,17,pathogenic,V14I,97.0,-,0.006284990820198892,True
+14,V,L,missense,pathogenic,3,pathogenic,V14L,97.0,-,0.006284990820198892,True
+15,G,A,missense,likely pathogenic,1,pathogenic,G15A,96.94,-,0.14766391700522102,True
+15,G,C,missense,variant of uncertain significance,3,uncertain,G15C,96.94,-,0.14766391700522102,True
+15,G,D,missense,likely pathogenic,2,pathogenic,G15D,96.94,-,0.14766391700522102,True
+15,G,R,missense,variant of uncertain significance,1,uncertain,G15R,96.94,-,0.14766391700522102,True
+15,G,S,missense,variant of uncertain significance,2,uncertain,G15S,96.94,-,0.14766391700522102,True
+15,G,V,missense,likely pathogenic,4,pathogenic,G15V,96.94,-,0.14766391700522102,True
+16,K,N,missense,,1,unlabeled,K16N,97.38,H,0.06072325868057289,True
+17,S,I,missense,variant of uncertain significance,3,uncertain,S17I,96.12,H,0.19290627422766884,True
+17,S,N,missense,variant of uncertain significance,2,uncertain,S17N,96.12,H,0.19290627422766884,True
+17,S,R,missense,,2,unlabeled,S17R,96.12,H,0.19290627422766884,True
+17,S,T,missense,variant of uncertain significance,2,uncertain,S17T,96.12,H,0.19290627422766884,True
+18,A,G,missense,pathogenic,2,pathogenic,A18G,96.75,H,0.18457709209939843,True
+18,A,P,missense,,1,unlabeled,A18P,96.75,H,0.18457709209939843,True
+18,A,T,missense,,2,unlabeled,A18T,96.75,H,0.18457709209939843,True
+18,A,V,missense,pathogenic,5,pathogenic,A18V,96.75,H,0.18457709209939843,True
+19,L,F,missense,pathogenic,14,pathogenic,L19F,98.0,H,0.024032402309252066,True
+19,L,M,missense,,2,unlabeled,L19M,98.0,H,0.024032402309252066,True
+20,T,A,missense,variant of uncertain significance,4,uncertain,T20A,97.06,H,0.0,True
+20,T,M,missense,,2,unlabeled,T20M,97.06,H,0.0,True
+20,T,R,missense,,4,unlabeled,T20R,97.06,H,0.0,True
+20,T,S,missense,variant of uncertain significance,2,uncertain,T20S,97.06,H,0.0,True
+21,I,K,missense,variant of uncertain significance,3,uncertain,I21K,95.56,H,0.1532523116801924,True
+21,I,L,missense,,1,unlabeled,I21L,95.56,H,0.1532523116801924,True
+21,I,R,missense,variant of uncertain significance,4,uncertain,I21R,95.56,H,0.1532523116801924,True
+22,Q,E,missense,pathogenic,5,pathogenic,Q22E,97.19,H,0.04840722342152133,True
+22,Q,H,missense,likely benign,2,benign,Q22H,97.19,H,0.04840722342152133,True
+22,Q,K,missense,pathogenic,15,pathogenic,Q22K,97.19,H,0.04840722342152133,True
+22,Q,L,missense,pathogenic,5,pathogenic,Q22L,97.19,H,0.04840722342152133,True
+22,Q,P,missense,variant of uncertain significance,3,uncertain,Q22P,97.19,H,0.04840722342152133,True
+22,Q,R,missense,pathogenic,12,pathogenic,Q22R,97.19,H,0.04840722342152133,True
+23,L,Q,missense,likely pathogenic,1,pathogenic,L23Q,97.25,H,0.012016201154626033,True
+23,L,R,missense,likely pathogenic,7,pathogenic,L23R,97.25,H,0.012016201154626033,True
+23,L,V,missense,,1,unlabeled,L23V,97.25,H,0.012016201154626033,True
+24,I,F,missense,,1,unlabeled,I24F,95.56,H,0.18915998214086557,True
+24,I,N,missense,,3,unlabeled,I24N,95.56,H,0.18915998214086557,True
+25,Q,H,missense,likely benign,2,benign,Q25H,93.19,H,0.4976243667910987,False
+25,Q,E,missense,,1,unlabeled,Q25E,93.19,H,0.4976243667910987,False
+25,Q,L,missense,variant of uncertain significance,3,uncertain,Q25L,93.19,H,0.4976243667910987,False
+25,Q,R,missense,variant of uncertain significance,4,uncertain,Q25R,93.19,H,0.4976243667910987,False
+26,N,H,missense,variant of uncertain significance,4,uncertain,N26H,93.44,-,0.43438437518652884,False
+26,N,I,missense,variant of uncertain significance,2,uncertain,N26I,93.44,-,0.43438437518652884,False
+26,N,K,missense,,1,unlabeled,N26K,93.44,-,0.43438437518652884,False
+26,N,T,missense,variant of uncertain significance,3,uncertain,N26T,93.44,-,0.43438437518652884,False
+26,N,Y,missense,variant of uncertain significance,6,uncertain,N26Y,93.44,-,0.43438437518652884,False
+27,H,D,missense,,1,unlabeled,H27D,91.5,-,0.419886480622759,False
+27,H,L,missense,variant of uncertain significance,5,uncertain,H27L,91.5,-,0.419886480622759,False
+27,H,R,missense,variant of uncertain significance,3,uncertain,H27R,91.5,-,0.419886480622759,False
+27,H,Y,missense,,2,unlabeled,H27Y,91.5,-,0.419886480622759,False
+28,F,L,missense,variant of uncertain significance,3,uncertain,F28L,90.69,-,0.2669042664217225,False
+29,V,E,missense,,1,unlabeled,V29E,81.44,-,0.375588090373734,False
+30,D,E,missense,benign,8,benign,D30E,81.62,-,0.6542999902936105,False
+30,D,H,missense,,1,unlabeled,D30H,81.62,-,0.6542999902936105,False
+30,D,N,missense,,2,unlabeled,D30N,81.62,-,0.6542999902936105,False
+30,D,Y,missense,,1,unlabeled,D30Y,81.62,-,0.6542999902936105,False
+31,E,K,missense,variant of uncertain significance,2,uncertain,E31K,84.06,-,0.7458471742561658,False
+31,E,Q,missense,variant of uncertain significance,2,uncertain,E31Q,84.06,-,0.7458471742561658,False
+32,Y,D,missense,,1,unlabeled,Y32D,77.75,-,0.5411069152558918,False
+32,Y,N,missense,,1,unlabeled,Y32N,77.75,-,0.5411069152558918,False
+32,Y,S,missense,variant of uncertain significance,3,uncertain,Y32S,77.75,-,0.5411069152558918,False
+33,D,E,missense,variant of uncertain significance,4,uncertain,D33E,83.31,-,0.657827689567631,False
+33,D,G,missense,variant of uncertain significance,4,uncertain,D33G,83.31,-,0.657827689567631,False
+33,D,H,missense,,1,unlabeled,D33H,83.31,-,0.657827689567631,False
+33,D,N,missense,,2,unlabeled,D33N,83.31,-,0.657827689567631,False
+33,D,V,missense,variant of uncertain significance,1,uncertain,D33V,83.31,-,0.657827689567631,False
+33,D,Y,missense,,1,unlabeled,D33Y,83.31,-,0.657827689567631,False
+34,P,A,missense,,1,unlabeled,P34A,84.62,-,0.4276723185575925,False
+34,P,L,missense,pathogenic,14,pathogenic,P34L,84.62,-,0.4276723185575925,False
+34,P,Q,missense,pathogenic,6,pathogenic,P34Q,84.62,-,0.4276723185575925,False
+34,P,R,missense,pathogenic,14,pathogenic,P34R,84.62,-,0.4276723185575925,False
+34,P,S,missense,,2,unlabeled,P34S,84.62,-,0.4276723185575925,False
+34,P,T,missense,,4,unlabeled,P34T,84.62,-,0.4276723185575925,False
+35,T,A,missense,,2,unlabeled,T35A,82.0,-,0.16271206994561055,True
+35,T,K,missense,,1,unlabeled,T35K,82.0,-,0.16271206994561055,True
+35,T,R,missense,,1,unlabeled,T35R,82.0,-,0.16271206994561055,True
+36,I,K,missense,variant of uncertain significance,4,uncertain,I36K,81.56,-,0.5573933608723655,False
+36,I,M,missense,pathogenic,12,pathogenic,I36M,81.56,-,0.5573933608723655,False
+36,I,V,missense,variant of uncertain significance,4,uncertain,I36V,81.56,-,0.5573933608723655,False
+37,E,D,missense,,1,unlabeled,E37D,84.44,E,0.38384953921432863,False
+37,E,K,missense,variant of uncertain significance,2,uncertain,E37K,84.44,E,0.38384953921432863,False
+37,E,Q,missense,variant of uncertain significance,1,uncertain,E37Q,84.44,E,0.38384953921432863,False
+38,D,E,missense,,1,unlabeled,D38E,91.88,E,0.3504564129944486,False
+38,D,H,missense,variant of uncertain significance,1,uncertain,D38H,91.88,E,0.3504564129944486,False
+38,D,N,missense,variant of uncertain significance,2,uncertain,D38N,91.88,E,0.3504564129944486,False
+38,D,V,missense,,1,unlabeled,D38V,91.88,E,0.3504564129944486,False
+38,D,Y,missense,variant of uncertain significance,2,uncertain,D38Y,91.88,E,0.3504564129944486,False
+39,S,C,missense,,1,unlabeled,S39C,93.38,E,0.5308406263488629,False
+39,S,F,missense,,1,unlabeled,S39F,93.38,E,0.5308406263488629,False
+39,S,T,missense,,1,unlabeled,S39T,93.38,E,0.5308406263488629,False
+40,Y,H,missense,,1,unlabeled,Y40H,96.19,E,0.19375260241110717,True
+41,R,G,missense,variant of uncertain significance,3,uncertain,R41G,96.94,E,0.5472878670992486,False
+41,R,S,missense,,1,unlabeled,R41S,96.94,E,0.5472878670992486,False
+41,R,T,missense,,1,unlabeled,R41T,96.94,E,0.5472878670992486,False
+42,K,N,missense,likely benign,1,benign,K42N,96.81,E,0.1896164155773887,True
+43,Q,E,missense,,1,unlabeled,Q43E,97.94,E,0.5476692954816195,False
+43,Q,L,missense,,1,unlabeled,Q43L,97.94,E,0.5476692954816195,False
+44,V,A,missense,,1,unlabeled,V44A,97.62,E,0.04858274432344491,True
+44,V,E,missense,,2,unlabeled,V44E,97.62,E,0.04858274432344491,True
+44,V,G,missense,,1,unlabeled,V44G,97.62,E,0.04858274432344491,True
+44,V,I,missense,,2,unlabeled,V44I,97.62,E,0.04858274432344491,True
+44,V,L,missense,,1,unlabeled,V44L,97.62,E,0.04858274432344491,True
+45,V,E,missense,,1,unlabeled,V45E,98.0,E,0.5509660919602292,False
+45,V,L,missense,,1,unlabeled,V45L,98.0,E,0.5509660919602292,False
+46,I,L,missense,variant of uncertain significance,1,uncertain,I46L,97.88,E,0.012260184934415394,True
+46,I,M,missense,,1,unlabeled,I46M,97.88,E,0.012260184934415394,True
+46,I,V,missense,variant of uncertain significance,3,uncertain,I46V,97.88,E,0.012260184934415394,True
+47,D,G,missense,variant of uncertain significance,4,uncertain,D47G,97.44,-,0.5089839780559182,False
+47,D,H,missense,,1,unlabeled,D47H,97.44,-,0.5089839780559182,False
+47,D,N,missense,,1,unlabeled,D47N,97.44,-,0.5089839780559182,False
+47,D,V,missense,variant of uncertain significance,1,uncertain,D47V,97.44,-,0.5089839780559182,False
+47,D,Y,missense,,1,unlabeled,D47Y,97.44,-,0.5089839780559182,False
+48,G,A,missense,,2,unlabeled,G48A,97.12,-,0.6791386251092406,False
+48,G,E,missense,,2,unlabeled,G48E,97.12,-,0.6791386251092406,False
+48,G,R,missense,,1,unlabeled,G48R,97.12,-,0.6791386251092406,False
+48,G,V,missense,,1,unlabeled,G48V,97.12,-,0.6791386251092406,False
+49,E,D,missense,,1,unlabeled,E49D,96.81,E,0.282579919653657,False
+49,E,K,missense,,2,unlabeled,E49K,96.81,E,0.282579919653657,False
+49,E,Q,missense,,1,unlabeled,E49Q,96.81,E,0.282579919653657,False
+50,T,A,missense,likely pathogenic,5,pathogenic,T50A,97.88,E,0.3722164820796728,False
+50,T,I,missense,likely pathogenic,7,pathogenic,T50I,97.88,E,0.3722164820796728,False
+50,T,P,missense,likely pathogenic,5,pathogenic,T50P,97.88,E,0.3722164820796728,False
+50,T,S,missense,likely pathogenic,1,pathogenic,T50S,97.88,E,0.3722164820796728,False
+50,T,S,missense,likely pathogenic,4,pathogenic,T50S,97.88,E,0.3722164820796728,False
+51,C,F,missense,variant of uncertain significance,1,uncertain,C51F,98.19,E,0.0,True
+51,C,R,missense,,2,unlabeled,C51R,98.19,E,0.0,True
+51,C,S,missense,variant of uncertain significance,5,uncertain,C51S,98.19,E,0.0,True
+51,C,W,missense,variant of uncertain significance,3,uncertain,C51W,98.19,E,0.0,True
+51,C,Y,missense,variant of uncertain significance,1,uncertain,C51Y,98.19,E,0.0,True
+52,L,F,missense,variant of uncertain significance,5,uncertain,L52F,98.38,E,0.17423491674207747,True
+52,L,H,missense,,1,unlabeled,L52H,98.38,E,0.17423491674207747,True
+52,L,V,missense,variant of uncertain significance,1,uncertain,L52V,98.38,E,0.17423491674207747,True
+53,L,F,missense,,2,unlabeled,L53F,98.44,E,0.0,True
+53,L,M,missense,,1,unlabeled,L53M,98.44,E,0.0,True
+54,D,E,missense,,1,unlabeled,D54E,98.06,E,0.10689150176759628,True
+54,D,H,missense,,1,unlabeled,D54H,98.06,E,0.10689150176759628,True
+54,D,N,missense,,2,unlabeled,D54N,98.06,E,0.10689150176759628,True
+54,D,Y,missense,,1,unlabeled,D54Y,98.06,E,0.10689150176759628,True
+55,I,F,missense,,1,unlabeled,I55F,98.19,E,0.006130092467207697,True
+55,I,S,missense,variant of uncertain significance,4,uncertain,I55S,98.19,E,0.006130092467207697,True
+55,I,V,missense,,1,unlabeled,I55V,98.19,E,0.006130092467207697,True
+56,L,F,missense,,1,unlabeled,L56F,96.94,E,0.15621061501013844,True
+56,L,H,missense,,1,unlabeled,L56H,96.94,E,0.15621061501013844,True
+56,L,I,missense,,1,unlabeled,L56I,96.94,E,0.15621061501013844,True
+56,L,P,missense,,1,unlabeled,L56P,96.94,E,0.15621061501013844,True
+56,L,V,missense,,1,unlabeled,L56V,96.94,E,0.15621061501013844,True
+57,D,E,missense,likely benign,2,benign,D57E,94.62,E,0.0,True
+57,D,G,missense,,1,unlabeled,D57G,94.62,E,0.0,True
+57,D,H,missense,,1,unlabeled,D57H,94.62,E,0.0,True
+57,D,N,missense,,4,unlabeled,D57N,94.62,E,0.0,True
+57,D,V,missense,,1,unlabeled,D57V,94.62,E,0.0,True
+57,D,Y,missense,,2,unlabeled,D57Y,94.62,E,0.0,True
+58,T,A,missense,,1,unlabeled,T58A,93.38,E,0.01947992014049626,True
+58,T,I,missense,pathogenic,11,pathogenic,T58I,93.38,E,0.01947992014049626,True
+58,T,R,missense,pathogenic,2,pathogenic,T58R,93.38,E,0.01947992014049626,True
+58,T,S,missense,,1,unlabeled,T58S,93.38,E,0.01947992014049626,True
+59,A,E,missense,,5,unlabeled,A59E,89.38,-,0.06890131266480565,True
+59,A,G,missense,,5,unlabeled,A59G,89.38,-,0.06890131266480565,True
+59,A,L,missense,likely pathogenic,3,pathogenic,A59L,89.38,-,0.06890131266480565,True
+59,A,P,missense,pathogenic,1,pathogenic,A59P,89.38,-,0.06890131266480565,True
+59,A,S,missense,pathogenic,5,pathogenic,A59S,89.38,-,0.06890131266480565,True
+59,A,T,missense,pathogenic,6,pathogenic,A59T,89.38,-,0.06890131266480565,True
+59,A,V,missense,,8,unlabeled,A59V,89.38,-,0.06890131266480565,True
+60,G,A,missense,pathogenic,2,pathogenic,G60A,79.75,-,0.1249065823140766,True
+60,G,C,missense,pathogenic,1,pathogenic,G60C,79.75,-,0.1249065823140766,True
+60,G,R,missense,pathogenic,12,pathogenic,G60R,79.75,-,0.1249065823140766,True
+60,G,S,missense,pathogenic,10,pathogenic,G60S,79.75,-,0.1249065823140766,True
+60,G,V,missense,pathogenic,8,pathogenic,G60V,79.75,-,0.1249065823140766,True
+61,Q,E,missense,pathogenic,5,pathogenic,Q61E,79.12,-,0.28115746285154924,False
+61,Q,H,missense,pathogenic,23,pathogenic,Q61H,79.12,-,0.28115746285154924,False
+61,Q,K,missense,pathogenic,8,pathogenic,Q61K,79.12,-,0.28115746285154924,False
+61,Q,K,missense,pathogenic,9,pathogenic,Q61K,79.12,-,0.28115746285154924,False
+61,Q,L,missense,pathogenic,12,pathogenic,Q61L,79.12,-,0.28115746285154924,False
+61,Q,P,missense,pathogenic,7,pathogenic,Q61P,79.12,-,0.28115746285154924,False
+61,Q,R,missense,,1,unlabeled,Q61R,79.12,-,0.28115746285154924,False
+61,Q,R,missense,pathogenic,14,pathogenic,Q61R,79.12,-,0.28115746285154924,False
+62,E,D,missense,likely benign,2,benign,E62D,76.44,H,0.6522136816711945,False
+62,E,K,missense,,3,unlabeled,E62K,76.44,H,0.6522136816711945,False
+62,E,Q,missense,,2,unlabeled,E62Q,76.44,H,0.6522136816711945,False
+63,E,D,missense,likely pathogenic,8,pathogenic,E63D,78.75,H,0.6966396900421579,False
+63,E,K,missense,variant of uncertain significance,7,uncertain,E63K,78.75,H,0.6966396900421579,False
+63,E,Q,missense,variant of uncertain significance,2,uncertain,E63Q,78.75,H,0.6966396900421579,False
+64,Y,C,missense,variant of uncertain significance,2,uncertain,Y64C,76.81,H,0.3170758100825553,False
+64,Y,D,missense,variant of uncertain significance,5,uncertain,Y64D,76.81,H,0.3170758100825553,False
+64,Y,F,missense,variant of uncertain significance,1,uncertain,Y64F,76.81,H,0.3170758100825553,False
+64,Y,N,missense,variant of uncertain significance,8,uncertain,Y64N,76.81,H,0.3170758100825553,False
+64,Y,S,missense,variant of uncertain significance,4,uncertain,Y64S,76.81,H,0.3170758100825553,False
+65,S,C,missense,,1,unlabeled,S65C,73.06,H,0.3942513122263533,False
+65,S,I,missense,likely pathogenic,6,pathogenic,S65I,73.06,H,0.3942513122263533,False
+65,S,N,missense,likely pathogenic,2,pathogenic,S65N,73.06,H,0.3942513122263533,False
+65,S,R,missense,,1,unlabeled,S65R,73.06,H,0.3942513122263533,False
+65,S,T,missense,likely pathogenic,1,pathogenic,S65T,73.06,H,0.3942513122263533,False
+66,A,G,missense,,1,unlabeled,A66G,77.56,H,0.7059155770204493,False
+66,A,P,missense,variant of uncertain significance,1,uncertain,A66P,77.56,H,0.7059155770204493,False
+66,A,S,missense,variant of uncertain significance,5,uncertain,A66S,77.56,H,0.7059155770204493,False
+66,A,T,missense,variant of uncertain significance,1,uncertain,A66T,77.56,H,0.7059155770204493,False
+66,A,V,missense,,1,unlabeled,A66V,77.56,H,0.7059155770204493,False
+67,M,I,missense,,3,unlabeled,M67I,79.75,H,0.4139813523315177,False
+67,M,K,missense,,1,unlabeled,M67K,79.75,H,0.4139813523315177,False
+67,M,L,missense,,1,unlabeled,M67L,79.75,H,0.4139813523315177,False
+67,M,R,missense,,1,unlabeled,M67R,79.75,H,0.4139813523315177,False
+68,R,G,missense,likely pathogenic,3,pathogenic,R68G,84.75,H,0.1125859667980278,True
+68,R,K,missense,,2,unlabeled,R68K,84.75,H,0.1125859667980278,True
+68,R,T,missense,,1,unlabeled,R68T,84.75,H,0.1125859667980278,True
+68,R,W,missense,likely pathogenic,4,pathogenic,R68W,84.75,H,0.1125859667980278,True
+68,R,M,missense,,5,unlabeled,R68M,84.75,H,0.1125859667980278,True
+69,D,E,missense,,1,unlabeled,D69E,89.62,H,0.2693917328221461,False
+69,D,H,missense,,1,unlabeled,D69H,89.62,H,0.2693917328221461,False
+69,D,N,missense,,1,unlabeled,D69N,89.62,H,0.2693917328221461,False
+69,D,V,missense,,1,unlabeled,D69V,89.62,H,0.2693917328221461,False
+69,D,Y,missense,,1,unlabeled,D69Y,89.62,H,0.2693917328221461,False
+70,Q,E,missense,,1,unlabeled,Q70E,89.81,H,0.4908994037436543,False
+70,Q,H,missense,,2,unlabeled,Q70H,89.81,H,0.4908994037436543,False
+70,Q,K,missense,,1,unlabeled,Q70K,89.81,H,0.4908994037436543,False
+71,Y,D,missense,pathogenic,5,pathogenic,Y71D,90.38,H,0.04132568039680322,True
+71,Y,F,missense,,1,unlabeled,Y71F,90.38,H,0.04132568039680322,True
+71,Y,H,missense,pathogenic,5,pathogenic,Y71H,90.38,H,0.04132568039680322,True
+71,Y,S,missense,,1,unlabeled,Y71S,90.38,H,0.04132568039680322,True
+72,M,I,missense,,5,unlabeled,M72I,92.62,H,0.0,True
+72,M,K,missense,,1,unlabeled,M72K,92.62,H,0.0,True
+72,M,L,missense,pathogenic,8,pathogenic,M72L,92.62,H,0.0,True
+73,R,G,missense,,1,unlabeled,R73G,94.56,H,0.5513443740863635,False
+73,R,K,missense,,1,unlabeled,R73K,94.56,H,0.5513443740863635,False
+73,R,M,missense,,2,unlabeled,R73M,94.56,H,0.5513443740863635,False
+73,R,S,missense,,2,unlabeled,R73S,94.56,H,0.5513443740863635,False
+73,R,T,missense,,1,unlabeled,R73T,94.56,H,0.5513443740863635,False
+73,R,W,missense,,1,unlabeled,R73W,94.56,H,0.5513443740863635,False
+74,T,A,missense,likely pathogenic,3,pathogenic,T74A,92.94,H,0.49433121136882774,False
+74,T,I,missense,likely pathogenic,5,pathogenic,T74I,92.94,H,0.49433121136882774,False
+74,T,P,missense,likely pathogenic,7,pathogenic,T74P,92.94,H,0.49433121136882774,False
+74,T,S,missense,likely pathogenic,1,pathogenic,T74S,92.94,H,0.49433121136882774,False
+74,T,S,missense,likely pathogenic,2,pathogenic,T74S,92.94,H,0.49433121136882774,False
+75,G,A,missense,,2,unlabeled,G75A,96.69,-,0.03221679100158997,True
+75,G,E,missense,,2,unlabeled,G75E,96.69,-,0.03221679100158997,True
+75,G,R,missense,,1,unlabeled,G75R,96.69,-,0.03221679100158997,True
+75,G,V,missense,,3,unlabeled,G75V,96.69,-,0.03221679100158997,True
+76,E,D,missense,variant of uncertain significance,3,uncertain,E76D,97.88,-,0.2873044241931541,False
+76,E,K,missense,,1,unlabeled,E76K,97.88,-,0.2873044241931541,False
+77,G,A,missense,variant of uncertain significance,3,uncertain,G77A,98.56,E,0.0,True
+77,G,C,missense,likely pathogenic,4,pathogenic,G77C,98.56,E,0.0,True
+77,G,D,missense,variant of uncertain significance,3,uncertain,G77D,98.56,E,0.0,True
+77,G,R,missense,likely pathogenic,1,pathogenic,G77R,98.56,E,0.0,True
+77,G,S,missense,likely pathogenic,5,pathogenic,G77S,98.56,E,0.0,True
+77,G,V,missense,variant of uncertain significance,5,uncertain,G77V,98.56,E,0.0,True
+78,F,I,missense,,1,unlabeled,F78I,98.69,E,0.0,True
+78,F,L,missense,,1,unlabeled,F78L,98.69,E,0.0,True
+78,F,L,missense,likely benign,1,benign,F78L,98.69,E,0.0,True
+78,F,S,missense,,1,unlabeled,F78S,98.69,E,0.0,True
+78,F,V,missense,,1,unlabeled,F78V,98.69,E,0.0,True
+79,L,F,missense,,1,unlabeled,L79F,98.75,E,0.01802430173193905,True
+79,L,H,missense,,1,unlabeled,L79H,98.75,E,0.01802430173193905,True
+79,L,P,missense,,1,unlabeled,L79P,98.75,E,0.01802430173193905,True
+79,L,V,missense,,1,unlabeled,L79V,98.75,E,0.01802430173193905,True
+81,V,A,missense,,1,unlabeled,V81A,98.81,E,0.0,True
+81,V,E,missense,,1,unlabeled,V81E,98.81,E,0.0,True
+81,V,I,missense,,1,unlabeled,V81I,98.81,E,0.0,True
+81,V,L,missense,,1,unlabeled,V81L,98.81,E,0.0,True
+82,F,I,missense,,1,unlabeled,F82I,98.75,E,0.005031784233499651,True
+82,F,L,missense,,1,unlabeled,F82L,98.75,E,0.005031784233499651,True
+83,A,D,missense,,1,unlabeled,A83D,98.62,E,0.018722918078138237,True
+83,A,G,missense,,1,unlabeled,A83G,98.62,E,0.018722918078138237,True
+83,A,P,missense,,1,unlabeled,A83P,98.62,E,0.018722918078138237,True
+83,A,S,missense,,1,unlabeled,A83S,98.62,E,0.018722918078138237,True
+83,A,T,missense,,1,unlabeled,A83T,98.62,E,0.018722918078138237,True
+83,A,V,missense,,1,unlabeled,A83V,98.62,E,0.018722918078138237,True
+84,I,K,missense,,1,unlabeled,I84K,98.62,-,0.0,True
+84,I,T,missense,,1,unlabeled,I84T,98.62,-,0.0,True
+84,I,V,missense,variant of uncertain significance,5,uncertain,I84V,98.62,-,0.0,True
+85,N,S,missense,,1,unlabeled,N85S,98.44,-,0.2567611753837586,False
+86,N,H,missense,,1,unlabeled,N86H,98.0,-,0.2971487172231943,False
+86,N,S,missense,,1,unlabeled,N86S,98.0,-,0.2971487172231943,False
+87,T,I,missense,,1,unlabeled,T87I,98.25,H,0.3459235433779543,False
+87,T,N,missense,,1,unlabeled,T87N,98.25,H,0.3459235433779543,False
+87,T,S,missense,,1,unlabeled,T87S,98.25,H,0.3459235433779543,False
+88,K,E,missense,,1,unlabeled,K88E,97.88,H,0.45135501267123557,False
+88,K,I,missense,,1,unlabeled,K88I,97.88,H,0.45135501267123557,False
+88,K,N,missense,benign,4,benign,K88N,97.88,H,0.45135501267123557,False
+89,S,L,missense,,2,unlabeled,S89L,98.06,H,0.02175919769559512,True
+90,F,I,missense,,1,unlabeled,F90I,98.62,H,0.13415605940477562,True
+90,F,L,missense,,1,unlabeled,F90L,98.62,H,0.13415605940477562,True
+90,F,Y,missense,variant of uncertain significance,4,uncertain,F90Y,98.62,H,0.13415605940477562,True
+91,E,D,missense,,1,unlabeled,E91D,97.81,H,0.5024573691365519,False
+91,E,Q,missense,,1,unlabeled,E91Q,97.81,H,0.5024573691365519,False
+92,D,E,missense,,1,unlabeled,D92E,97.0,-,0.16937019424761862,True
+92,D,H,missense,variant of uncertain significance,1,uncertain,D92H,97.0,-,0.16937019424761862,True
+92,D,N,missense,variant of uncertain significance,1,uncertain,D92N,97.0,-,0.16937019424761862,True
+92,D,Y,missense,variant of uncertain significance,3,uncertain,D92Y,97.0,-,0.16937019424761862,True
+93,I,F,missense,,2,unlabeled,I93F,98.12,H,0.012260184934415394,True
+93,I,N,missense,,1,unlabeled,I93N,98.12,H,0.012260184934415394,True
+94,H,D,missense,,1,unlabeled,H94D,97.19,H,0.39598513151451026,False
+94,H,L,missense,,1,unlabeled,H94L,97.19,H,0.39598513151451026,False
+94,H,Q,missense,,1,unlabeled,H94Q,97.19,H,0.39598513151451026,False
+94,H,R,missense,,1,unlabeled,H94R,97.19,H,0.39598513151451026,False
+95,H,D,missense,variant of uncertain significance,1,uncertain,H95D,94.88,H,0.5524361651639379,False
+95,H,N,missense,variant of uncertain significance,5,uncertain,H95N,94.88,H,0.5524361651639379,False
+95,H,Q,missense,,1,unlabeled,H95Q,94.88,H,0.5524361651639379,False
+95,H,Y,missense,variant of uncertain significance,5,uncertain,H95Y,94.88,H,0.5524361651639379,False
+96,Y,H,missense,,1,unlabeled,Y96H,95.56,H,0.03933880819430551,True
+96,Y,N,missense,,1,unlabeled,Y96N,95.56,H,0.03933880819430551,True
+97,R,G,missense,,1,unlabeled,R97G,96.69,H,0.11216976309976025,True
+97,R,I,missense,likely pathogenic,2,pathogenic,R97I,96.69,H,0.11216976309976025,True
+97,R,K,missense,likely pathogenic,4,pathogenic,R97K,96.69,H,0.11216976309976025,True
+97,R,S,missense,,1,unlabeled,R97S,96.69,H,0.11216976309976025,True
+97,R,T,missense,likely pathogenic,1,pathogenic,R97T,96.69,H,0.11216976309976025,True
+98,E,D,missense,,1,unlabeled,E98D,95.81,H,0.3041611678707189,False
+99,Q,E,missense,,2,unlabeled,Q99E,94.31,H,0.10442084305064621,True
+100,I,M,missense,,1,unlabeled,I100M,96.69,H,0.0,True
+100,I,N,missense,,1,unlabeled,I100N,96.69,H,0.0,True
+100,I,T,missense,,1,unlabeled,I100T,96.69,H,0.0,True
+101,K,I,missense,,1,unlabeled,K101I,96.81,H,0.08042700831988939,True
+102,R,G,missense,,1,unlabeled,R102G,95.88,H,0.574465395312789,False
+102,R,K,missense,,1,unlabeled,R102K,95.88,H,0.574465395312789,False
+102,R,S,missense,,1,unlabeled,R102S,95.88,H,0.574465395312789,False
+103,V,D,missense,,1,unlabeled,V103D,95.44,H,0.17867934603203298,True
+104,K,E,missense,,1,unlabeled,K104E,95.56,H,0.2377505137850306,False
+104,K,M,missense,,1,unlabeled,K104M,95.56,H,0.2377505137850306,False
+104,K,N,missense,,2,unlabeled,K104N,95.56,H,0.2377505137850306,False
+104,K,Q,missense,,1,unlabeled,K104Q,95.56,H,0.2377505137850306,False
+105,D,E,missense,likely benign,1,benign,D105E,95.69,-,0.7427816288897133,False
+105,D,H,missense,,1,unlabeled,D105H,95.69,-,0.7427816288897133,False
+105,D,N,missense,,1,unlabeled,D105N,95.69,-,0.7427816288897133,False
+105,D,V,missense,,1,unlabeled,D105V,95.69,-,0.7427816288897133,False
+105,D,Y,missense,,1,unlabeled,D105Y,95.69,-,0.7427816288897133,False
+106,S,P,missense,,1,unlabeled,S106P,94.5,-,0.183786413169355,True
+106,S,T,missense,,1,unlabeled,S106T,94.5,-,0.183786413169355,True
+107,E,D,missense,,1,unlabeled,E107D,93.81,-,0.6280375060979863,False
+107,E,G,missense,,1,unlabeled,E107G,93.81,-,0.6280375060979863,False
+107,E,K,missense,,2,unlabeled,E107K,93.81,-,0.6280375060979863,False
+107,E,Q,missense,,1,unlabeled,E107Q,93.81,-,0.6280375060979863,False
+108,D,E,missense,variant of uncertain significance,4,uncertain,D108E,93.44,-,0.37235009080890513,False
+108,D,H,missense,variant of uncertain significance,2,uncertain,D108H,93.44,-,0.37235009080890513,False
+108,D,N,missense,variant of uncertain significance,3,uncertain,D108N,93.44,-,0.37235009080890513,False
+108,D,V,missense,,1,unlabeled,D108V,93.44,-,0.37235009080890513,False
+108,D,Y,missense,variant of uncertain significance,6,uncertain,D108Y,93.44,-,0.37235009080890513,False
+109,V,E,missense,variant of uncertain significance,4,uncertain,V109E,97.62,-,0.10794028480245356,True
+109,V,I,missense,variant of uncertain significance,4,uncertain,V109I,97.62,-,0.10794028480245356,True
+109,V,L,missense,variant of uncertain significance,2,uncertain,V109L,97.62,-,0.10794028480245356,True
+110,P,A,missense,,1,unlabeled,P110A,98.56,-,0.0607611681026373,True
+110,P,S,missense,,3,unlabeled,P110S,98.56,-,0.0607611681026373,True
+111,M,I,missense,,1,unlabeled,M111I,98.75,E,0.04368076035538131,True
+111,M,K,missense,variant of uncertain significance,1,uncertain,M111K,98.75,E,0.04368076035538131,True
+111,M,L,missense,variant of uncertain significance,1,uncertain,M111L,98.75,E,0.04368076035538131,True
+111,M,T,missense,variant of uncertain significance,4,uncertain,M111T,98.75,E,0.04368076035538131,True
+111,M,V,missense,variant of uncertain significance,7,uncertain,M111V,98.75,E,0.04368076035538131,True
+112,V,I,missense,,3,unlabeled,V112I,98.88,E,0.0,True
+112,V,L,missense,,2,unlabeled,V112L,98.88,E,0.0,True
+113,L,Q,missense,,1,unlabeled,L113Q,98.88,E,0.0,True
+114,V,E,missense,,1,unlabeled,V114E,98.94,E,0.0,True
+114,V,I,missense,,2,unlabeled,V114I,98.94,E,0.0,True
+114,V,L,missense,,1,unlabeled,V114L,98.94,E,0.0,True
+115,G,A,missense,,1,unlabeled,G115A,98.88,E,0.0,True
+115,G,E,missense,,2,unlabeled,G115E,98.88,E,0.0,True
+115,G,R,missense,,2,unlabeled,G115R,98.88,E,0.0,True
+115,G,V,missense,,1,unlabeled,G115V,98.88,E,0.0,True
+116,N,H,missense,pathogenic,5,pathogenic,N116H,98.75,E,0.016824436964840112,True
+116,N,K,missense,likely benign,1,benign,N116K,98.75,E,0.016824436964840112,True
+116,N,S,missense,likely pathogenic,5,pathogenic,N116S,98.75,E,0.016824436964840112,True
+116,N,T,missense,likely pathogenic,1,pathogenic,N116T,98.75,E,0.016824436964840112,True
+117,K,E,missense,,2,unlabeled,K117E,98.06,-,0.245024259230087,False
+117,K,I,missense,likely pathogenic,2,pathogenic,K117I,98.06,-,0.245024259230087,False
+117,K,N,missense,pathogenic,19,pathogenic,K117N,98.06,-,0.245024259230087,False
+117,K,T,missense,likely pathogenic,3,pathogenic,K117T,98.06,-,0.245024259230087,False
+118,C,F,missense,,1,unlabeled,C118F,98.25,-,0.17149769939012519,True
+118,C,R,missense,variant of uncertain significance,5,uncertain,C118R,98.25,-,0.17149769939012519,True
+118,C,S,missense,,3,unlabeled,C118S,98.25,-,0.17149769939012519,True
+118,C,Y,missense,,1,unlabeled,C118Y,98.25,-,0.17149769939012519,True
+119,D,E,missense,,1,unlabeled,D119E,97.81,-,0.2797893952892355,False
+119,D,H,missense,likely pathogenic,3,pathogenic,D119H,97.81,-,0.2797893952892355,False
+119,D,N,missense,likely pathogenic,8,pathogenic,D119N,97.81,-,0.2797893952892355,False
+119,D,V,missense,,1,unlabeled,D119V,97.81,-,0.2797893952892355,False
+120,L,F,missense,,1,unlabeled,L120F,96.81,-,0.30700156068785117,False
+120,L,M,missense,likely benign,1,benign,L120M,96.81,-,0.30700156068785117,False
+121,P,A,missense,,1,unlabeled,P121A,96.0,-,0.8192209055579945,False
+121,P,H,missense,,2,unlabeled,P121H,96.0,-,0.8192209055579945,False
+121,P,L,missense,,1,unlabeled,P121L,96.0,-,0.8192209055579945,False
+121,P,R,missense,,1,unlabeled,P121R,96.0,-,0.8192209055579945,False
+121,P,S,missense,,1,unlabeled,P121S,96.0,-,0.8192209055579945,False
+121,P,T,missense,,1,unlabeled,P121T,96.0,-,0.8192209055579945,False
+122,S,C,missense,variant of uncertain significance,5,uncertain,S122C,96.38,-,0.4040303807650888,False
+122,S,F,missense,variant of uncertain significance,2,uncertain,S122F,96.38,-,0.4040303807650888,False
+122,S,T,missense,,1,unlabeled,S122T,96.38,-,0.4040303807650888,False
+122,S,Y,missense,variant of uncertain significance,1,uncertain,S122Y,96.38,-,0.4040303807650888,False
+123,R,I,missense,variant of uncertain significance,2,uncertain,R123I,98.06,-,0.29376441275320614,False
+123,R,K,missense,variant of uncertain significance,1,uncertain,R123K,98.06,-,0.29376441275320614,False
+123,R,S,missense,,1,unlabeled,R123S,98.06,-,0.29376441275320614,False
+123,R,T,missense,variant of uncertain significance,1,uncertain,R123T,98.06,-,0.29376441275320614,False
+124,T,A,missense,,3,unlabeled,T124A,98.12,-,0.4046403484353132,False
+124,T,I,missense,variant of uncertain significance,4,uncertain,T124I,98.12,-,0.4046403484353132,False
+124,T,P,missense,,3,unlabeled,T124P,98.12,-,0.4046403484353132,False
+124,T,R,missense,variant of uncertain significance,1,uncertain,T124R,98.12,-,0.4046403484353132,False
+124,T,S,missense,,3,unlabeled,T124S,98.12,-,0.4046403484353132,False
+125,V,A,missense,,1,unlabeled,V125A,98.12,-,0.0130982025293255,True
+125,V,E,missense,,1,unlabeled,V125E,98.12,-,0.0130982025293255,True
+125,V,I,missense,variant of uncertain significance,5,uncertain,V125I,98.12,-,0.0130982025293255,True
+125,V,L,missense,variant of uncertain significance,1,uncertain,V125L,98.12,-,0.0130982025293255,True
+126,D,E,missense,,2,unlabeled,D126E,97.25,-,0.45602955272992285,False
+126,D,H,missense,,1,unlabeled,D126H,97.25,-,0.45602955272992285,False
+126,D,N,missense,,1,unlabeled,D126N,97.25,-,0.45602955272992285,False
+126,D,V,missense,,2,unlabeled,D126V,97.25,-,0.45602955272992285,False
+126,D,Y,missense,,1,unlabeled,D126Y,97.25,-,0.45602955272992285,False
+127,T,R,missense,variant of uncertain significance,5,uncertain,T127R,97.69,H,0.2873797450974257,False
+127,T,S,missense,,1,unlabeled,T127S,97.69,H,0.2873797450974257,False
+128,K,I,missense,,2,unlabeled,K128I,98.12,H,0.5721199641685517,False
+128,K,N,missense,,1,unlabeled,K128N,98.12,H,0.5721199641685517,False
+128,K,R,missense,,2,unlabeled,K128R,98.12,H,0.5721199641685517,False
+129,Q,H,missense,,1,unlabeled,Q129H,97.81,H,0.4648312218864032,False
+129,Q,R,missense,,1,unlabeled,Q129R,97.81,H,0.4648312218864032,False
+130,A,D,missense,variant of uncertain significance,3,uncertain,A130D,98.5,H,0.009361459039069119,True
+130,A,G,missense,variant of uncertain significance,3,uncertain,A130G,98.5,H,0.009361459039069119,True
+130,A,I,missense,variant of uncertain significance,5,uncertain,A130I,98.5,H,0.009361459039069119,True
+130,A,P,missense,,2,unlabeled,A130P,98.5,H,0.009361459039069119,True
+130,A,S,missense,,2,unlabeled,A130S,98.5,H,0.009361459039069119,True
+130,A,T,missense,,2,unlabeled,A130T,98.5,H,0.009361459039069119,True
+130,A,V,missense,variant of uncertain significance,10,uncertain,A130V,98.5,H,0.009361459039069119,True
+131,Q,E,missense,,2,unlabeled,Q131E,98.62,H,0.3829457350342913,False
+131,Q,H,missense,,2,unlabeled,Q131H,98.62,H,0.3829457350342913,False
+131,Q,L,missense,,1,unlabeled,Q131L,98.62,H,0.3829457350342913,False
+131,Q,R,missense,,1,unlabeled,Q131R,98.62,H,0.3829457350342913,False
+132,D,A,missense,,1,unlabeled,D132A,98.62,H,0.34165526559194004,False
+132,D,E,missense,,1,unlabeled,D132E,98.62,H,0.34165526559194004,False
+132,D,H,missense,,1,unlabeled,D132H,98.62,H,0.34165526559194004,False
+132,D,N,missense,,1,unlabeled,D132N,98.62,H,0.34165526559194004,False
+132,D,V,missense,,1,unlabeled,D132V,98.62,H,0.34165526559194004,False
+133,L,I,missense,,1,unlabeled,L133I,98.44,H,0.1796756550640407,True
+134,A,G,missense,variant of uncertain significance,5,uncertain,A134G,98.69,H,0.018722918078138237,True
+134,A,P,missense,variant of uncertain significance,1,uncertain,A134P,98.69,H,0.018722918078138237,True
+134,A,S,missense,variant of uncertain significance,1,uncertain,A134S,98.69,H,0.018722918078138237,True
+134,A,T,missense,variant of uncertain significance,5,uncertain,A134T,98.69,H,0.018722918078138237,True
+134,A,V,missense,variant of uncertain significance,3,uncertain,A134V,98.69,H,0.018722918078138237,True
+135,R,K,missense,,2,unlabeled,R135K,98.38,H,0.5760401358289007,False
+135,R,T,missense,,4,unlabeled,R135T,98.38,H,0.5760401358289007,False
+136,S,I,missense,variant of uncertain significance,3,uncertain,S136I,97.94,H,0.5622853339271356,False
+136,S,N,missense,variant of uncertain significance,10,uncertain,S136N,97.94,H,0.5622853339271356,False
+136,S,R,missense,,1,unlabeled,S136R,97.94,H,0.5622853339271356,False
+136,S,T,missense,variant of uncertain significance,3,uncertain,S136T,97.94,H,0.5622853339271356,False
+137,Y,F,missense,,1,unlabeled,Y137F,97.94,H,0.14628191900300544,True
+137,Y,H,missense,,1,unlabeled,Y137H,97.94,H,0.14628191900300544,True
+138,G,A,missense,variant of uncertain significance,2,uncertain,G138A,97.88,-,0.5761463431807663,False
+138,G,E,missense,variant of uncertain significance,3,uncertain,G138E,97.88,-,0.5761463431807663,False
+138,G,R,missense,,3,unlabeled,G138R,97.88,-,0.5761463431807663,False
+138,G,V,missense,variant of uncertain significance,2,uncertain,G138V,97.88,-,0.5761463431807663,False
+140,P,A,missense,variant of uncertain significance,1,uncertain,P140A,98.75,E,0.2202592343720602,False
+140,P,H,missense,,2,unlabeled,P140H,98.75,E,0.2202592343720602,False
+140,P,L,missense,,1,unlabeled,P140L,98.75,E,0.2202592343720602,False
+140,P,R,missense,,1,unlabeled,P140R,98.75,E,0.2202592343720602,False
+140,P,S,missense,variant of uncertain significance,5,uncertain,P140S,98.75,E,0.2202592343720602,False
+140,P,T,missense,variant of uncertain significance,1,uncertain,P140T,98.75,E,0.2202592343720602,False
+141,F,I,missense,,1,unlabeled,F141I,98.81,E,0.1658110611416118,True
+141,F,L,missense,,4,unlabeled,F141L,98.81,E,0.1658110611416118,True
+141,F,Y,missense,,1,unlabeled,F141Y,98.81,E,0.1658110611416118,True
+142,I,T,missense,,1,unlabeled,I142T,98.75,E,0.030650462336038485,True
+143,E,D,missense,,1,unlabeled,E143D,98.75,E,0.15964452471932453,True
+143,E,G,missense,,2,unlabeled,E143G,98.75,E,0.15964452471932453,True
+143,E,K,missense,,2,unlabeled,E143K,98.75,E,0.15964452471932453,True
+143,E,Q,missense,,1,unlabeled,E143Q,98.75,E,0.15964452471932453,True
+143,E,V,missense,,1,unlabeled,E143V,98.75,E,0.15964452471932453,True
+144,T,A,missense,,1,unlabeled,T144A,98.81,-,0.0,True
+144,T,I,missense,,1,unlabeled,T144I,98.81,-,0.0,True
+144,T,R,missense,,1,unlabeled,T144R,98.81,-,0.0,True
+144,T,S,missense,,1,unlabeled,T144S,98.81,-,0.0,True
+145,S,L,missense,,2,unlabeled,S145L,98.44,E,0.0,True
+145,S,T,missense,,1,unlabeled,S145T,98.44,E,0.0,True
+146,A,E,missense,pathogenic,2,pathogenic,A146E,98.0,-,0.028084377117207356,True
+146,A,G,missense,pathogenic,2,pathogenic,A146G,98.0,-,0.028084377117207356,True
+146,A,P,missense,pathogenic,9,pathogenic,A146P,98.0,-,0.028084377117207356,True
+146,A,S,missense,pathogenic,7,pathogenic,A146S,98.0,-,0.028084377117207356,True
+146,A,T,missense,pathogenic,15,pathogenic,A146T,98.0,-,0.028084377117207356,True
+146,A,V,missense,pathogenic,12,pathogenic,A146V,98.0,-,0.028084377117207356,True
+147,K,E,missense,pathogenic,7,pathogenic,K147E,97.38,-,0.5281432579882714,False
+147,K,M,missense,likely pathogenic,3,pathogenic,K147M,97.38,-,0.5281432579882714,False
+147,K,N,missense,likely pathogenic,5,pathogenic,K147N,97.38,-,0.5281432579882714,False
+147,K,R,missense,pathogenic,4,pathogenic,K147R,97.38,-,0.5281432579882714,False
+148,T,R,missense,variant of uncertain significance,4,uncertain,T148R,97.25,-,0.5114360874632102,False
+148,T,S,missense,,2,unlabeled,T148S,97.25,-,0.5114360874632102,False
+149,R,K,missense,,2,unlabeled,R149K,97.38,-,0.3815305592958798,False
+149,R,S,missense,,2,unlabeled,R149S,97.38,-,0.3815305592958798,False
+149,R,T,missense,,1,unlabeled,R149T,97.38,-,0.3815305592958798,False
+150,Q,E,missense,,1,unlabeled,Q150E,98.5,E,0.3973113865184825,False
+150,Q,H,missense,,1,unlabeled,Q150H,98.5,E,0.3973113865184825,False
+150,Q,L,missense,,1,unlabeled,Q150L,98.5,E,0.3973113865184825,False
+150,Q,R,missense,,1,unlabeled,Q150R,98.5,E,0.3973113865184825,False
+151,R,K,missense,,1,unlabeled,R151K,98.44,-,0.40362356885325107,False
+151,R,S,missense,,1,unlabeled,R151S,98.44,-,0.40362356885325107,False
+151,R,T,missense,,2,unlabeled,R151T,98.44,-,0.40362356885325107,False
+152,V,A,missense,,1,unlabeled,V152A,98.5,H,0.013880784092412831,True
+152,V,E,missense,,1,unlabeled,V152E,98.5,H,0.013880784092412831,True
+152,V,G,missense,,1,unlabeled,V152G,98.5,H,0.013880784092412831,True
+152,V,M,missense,,1,unlabeled,V152M,98.5,H,0.013880784092412831,True
+153,E,A,missense,pathogenic,4,pathogenic,E153A,98.06,H,0.2693446574734124,False
+153,E,K,missense,,1,unlabeled,E153K,98.06,H,0.2693446574734124,False
+153,E,Q,missense,,1,unlabeled,E153Q,98.06,H,0.2693446574734124,False
+153,E,V,missense,pathogenic,5,pathogenic,E153V,98.06,H,0.2693446574734124,False
+154,D,G,missense,variant of uncertain significance,2,uncertain,D154G,98.56,H,0.33944592835004145,False
+154,D,H,missense,,2,unlabeled,D154H,98.56,H,0.33944592835004145,False
+154,D,N,missense,,2,unlabeled,D154N,98.56,H,0.33944592835004145,False
+154,D,V,missense,variant of uncertain significance,5,uncertain,D154V,98.56,H,0.33944592835004145,False
+154,D,Y,missense,,2,unlabeled,D154Y,98.56,H,0.33944592835004145,False
+155,A,D,missense,,2,unlabeled,A155D,98.81,H,0.028084377117207356,True
+155,A,G,missense,,1,unlabeled,A155G,98.81,H,0.028084377117207356,True
+155,A,T,missense,,2,unlabeled,A155T,98.81,H,0.028084377117207356,True
+155,A,V,missense,,1,unlabeled,A155V,98.81,H,0.028084377117207356,True
+156,F,L,missense,,1,unlabeled,F156L,98.69,H,0.005031784233499651,True
+157,Y,H,missense,,1,unlabeled,Y157H,98.62,H,0.15398018275929096,True
+158,T,I,missense,,2,unlabeled,T158I,98.81,H,0.15198499223948675,True
+158,T,P,missense,,2,unlabeled,T158P,98.81,H,0.15198499223948675,True
+158,T,R,missense,,2,unlabeled,T158R,98.81,H,0.15198499223948675,True
+158,T,S,missense,,2,unlabeled,T158S,98.81,H,0.15198499223948675,True
+159,L,F,missense,,1,unlabeled,L159F,98.88,H,0.0,True
+159,L,S,missense,,1,unlabeled,L159S,98.88,H,0.0,True
+160,V,A,missense,,1,unlabeled,V160A,98.75,H,0.0,True
+160,V,L,missense,variant of uncertain significance,3,uncertain,V160L,98.75,H,0.0,True
+160,V,M,missense,variant of uncertain significance,7,uncertain,V160M,98.75,H,0.0,True
+161,R,S,missense,benign,5,benign,R161S,98.69,H,0.3006040497927362,False
+162,E,D,missense,,1,unlabeled,E162D,98.62,H,0.17777571251264868,True
+163,I,M,missense,,1,unlabeled,I163M,98.5,H,0.006130092467207697,True
+163,I,N,missense,,1,unlabeled,I163N,98.5,H,0.006130092467207697,True
+163,I,S,missense,,1,unlabeled,I163S,98.5,H,0.006130092467207697,True
+163,I,V,missense,,1,unlabeled,I163V,98.5,H,0.006130092467207697,True
+164,R,G,missense,likely pathogenic,2,pathogenic,R164G,97.88,H,0.155175323042083,True
+164,R,L,missense,likely benign,3,benign,R164L,97.88,H,0.155175323042083,True
+164,R,P,missense,likely benign,3,benign,R164P,97.88,H,0.155175323042083,True
+164,R,Q,missense,likely benign,9,benign,R164Q,97.88,H,0.155175323042083,True
+165,Q,E,missense,,2,unlabeled,Q165E,97.12,H,0.4089762736302356,False
+165,Q,H,missense,,1,unlabeled,Q165H,97.12,H,0.4089762736302356,False
+165,Q,R,missense,,3,unlabeled,Q165R,97.12,H,0.4089762736302356,False
+166,Y,H,missense,likely benign,8,benign,Y166H,96.69,H,0.27790528613655313,False
+166,Y,N,missense,likely benign,7,benign,Y166N,96.69,H,0.27790528613655313,False
+167,R,G,missense,,1,unlabeled,R167G,95.19,H,0.2755790858302359,False
+167,R,I,missense,likely benign,1,benign,R167I,95.19,H,0.2755790858302359,False
+167,R,T,missense,likely benign,4,benign,R167T,95.19,H,0.2755790858302359,False
+168,L,F,missense,,1,unlabeled,L168F,93.75,H,0.6080840482200552,False
+168,L,M,missense,,1,unlabeled,L168M,93.75,H,0.6080840482200552,False
+168,L,V,missense,,1,unlabeled,L168V,93.75,H,0.6080840482200552,False
+169,K,E,missense,,1,unlabeled,K169E,92.0,H,0.4246048836992496,False
+170,K,E,missense,,1,unlabeled,K170E,88.69,H,0.4600276720518024,False
+170,K,N,missense,,1,unlabeled,K170N,88.69,H,0.4600276720518024,False
+170,K,T,missense,,1,unlabeled,K170T,88.69,H,0.4600276720518024,False
+171,I,M,missense,,3,unlabeled,I171M,87.88,H,0.4707470235013759,False
+171,I,T,missense,variant of uncertain significance,5,uncertain,I171T,87.88,H,0.4707470235013759,False
+172,S,C,missense,,2,unlabeled,S172C,84.44,H,0.2933400321853383,False
+172,S,I,missense,,1,unlabeled,S172I,84.44,H,0.2933400321853383,False
+172,S,N,missense,,1,unlabeled,S172N,84.44,H,0.2933400321853383,False
+172,S,R,missense,,1,unlabeled,S172R,84.44,H,0.2933400321853383,False
+172,S,T,missense,,1,unlabeled,S172T,84.44,H,0.2933400321853383,False
+173,K,R,missense,,1,unlabeled,K173R,79.5,H,0.5970489278534516,False
+174,E,K,missense,,2,unlabeled,E174K,76.62,H,0.5114562429309387,False
+174,E,Q,missense,,2,unlabeled,E174Q,76.62,H,0.5114562429309387,False
+175,E,D,missense,likely benign,1,benign,E175D,71.31,H,0.6501833393696906,False
+175,E,K,missense,,1,unlabeled,E175K,71.31,H,0.6501833393696906,False
+175,E,Q,missense,,1,unlabeled,E175Q,71.31,H,0.6501833393696906,False
+176,K,M,missense,,1,unlabeled,K176M,64.31,-,0.7080231324695218,False
+176,K,N,missense,,1,unlabeled,K176N,64.31,-,0.7080231324695218,False
+176,K,R,missense,,1,unlabeled,K176R,64.31,-,0.7080231324695218,False
+177,T,S,missense,,1,unlabeled,T177S,54.03,-,0.5597920660696185,False
+177,T,S,missense,,1,unlabeled,T177S,54.03,-,0.5597920660696185,False
+178,P,A,missense,,2,unlabeled,P178A,48.25,-,0.7213137830206438,False
+178,P,L,missense,,1,unlabeled,P178L,48.25,-,0.7213137830206438,False
+178,P,R,missense,,1,unlabeled,P178R,48.25,-,0.7213137830206438,False
+178,P,S,missense,,2,unlabeled,P178S,48.25,-,0.7213137830206438,False
+178,P,T,missense,,2,unlabeled,P178T,48.25,-,0.7213137830206438,False
+179,G,A,missense,,1,unlabeled,G179A,49.53,-,0.6598103387994894,False
+179,G,A,missense,pathogenic,7,pathogenic,G179A,49.53,-,0.6598103387994894,False
+179,G,C,missense,benign,5,benign,G179C,49.53,-,0.6598103387994894,False
+179,G,D,missense,,1,unlabeled,G179D,49.53,-,0.6598103387994894,False
+179,G,R,missense,benign,5,benign,G179R,49.53,-,0.6598103387994894,False
+179,G,S,missense,benign,11,benign,G179S,49.53,-,0.6598103387994894,False
+179,G,V,missense,,1,unlabeled,G179V,49.53,-,0.6598103387994894,False
+180,C,S,missense,,1,unlabeled,C180S,45.16,-,0.7434387509251902,False
+180,C,S,missense,,1,unlabeled,C180S,45.16,-,0.7434387509251902,False
+180,C,Y,missense,,1,unlabeled,C180Y,45.16,-,0.7434387509251902,False
+181,V,A,missense,,1,unlabeled,V181A,50.31,-,0.6871474892054357,False
+181,V,E,missense,,1,unlabeled,V181E,50.31,-,0.6871474892054357,False
+181,V,M,missense,,1,unlabeled,V181M,50.31,-,0.6871474892054357,False
+182,K,E,missense,,1,unlabeled,K182E,48.97,-,0.7689303606859954,False
+183,I,V,missense,,3,unlabeled,I183V,54.03,-,0.733714275777672,False
+186,C,S,missense,,1,unlabeled,C186S,52.34,-,0.6943187646345942,False
+186,C,W,missense,likely benign,2,benign,C186W,52.34,-,0.6943187646345942,False
+186,C,Y,missense,,1,unlabeled,C186Y,52.34,-,0.6943187646345942,False
+187,I,F,missense,variant of uncertain significance,2,uncertain,I187F,59.44,-,0.760908667251345,False
+187,I,N,missense,variant of uncertain significance,1,uncertain,I187N,59.44,-,0.760908667251345,False
+187,I,T,missense,variant of uncertain significance,4,uncertain,I187T,59.44,-,0.760908667251345,False
+187,I,V,missense,variant of uncertain significance,5,uncertain,I187V,59.44,-,0.760908667251345,False
+188,I,M,missense,,1,unlabeled,I188M,52.94,-,0.7820423045565811,False
+188,I,V,missense,variant of uncertain significance,7,uncertain,I188V,52.94,-,0.7820423045565811,False
+189,M,I,missense,,1,unlabeled,M189I,52.28,-,1.0,False
+189,M,L,missense,benign,9,benign,M189L,52.28,-,1.0,False

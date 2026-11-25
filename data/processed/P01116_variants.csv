@@ -1,0 +1,725 @@
+position,wild_type,mutant,consequence,clinical_significance,n_sources
+1,M,*,initiator codon variant,variant of uncertain significance,3
+2,T,,frameshift,variant of uncertain significance,3
+2,T,P,missense,variant of uncertain significance,3
+2,T,S,missense,variant of uncertain significance,1
+2,T,S,missense,variant of uncertain significance,4
+3,E,D,missense,,1
+4,Y,,frameshift,variant of uncertain significance,3
+4,Y,*,stop gained,variant of uncertain significance,3
+4,Y,F,missense,variant of uncertain significance,3
+4,Y,N,missense,variant of uncertain significance,3
+5,K,*,stop gained,variant of uncertain significance,3
+5,K,E,missense,pathogenic,12
+5,K,I,missense,,1
+5,K,N,missense,pathogenic,13
+5,K,Q,missense,likely pathogenic,3
+6,L,F,missense,variant of uncertain significance,3
+6,L,I,missense,variant of uncertain significance,1
+6,L,P,missense,,2
+6,L,V,missense,variant of uncertain significance,4
+7,G,A,missense,,3
+7,V,E,missense,likely pathogenic,4
+7,V,L,missense,variant of uncertain significance,1
+7,V,M,missense,variant of uncertain significance,5
+8,V,,frameshift,variant of uncertain significance,3
+8,V,I,missense,variant of uncertain significance,5
+8,V,L,missense,variant of uncertain significance,1
+9,V,,frameshift,variant of uncertain significance,3
+9,V,A,missense,,1
+9,V,G,missense,,1
+9,V,I,missense,,2
+9,V,L,missense,,1
+9,VG,L,insertion,variant of uncertain significance,3
+10,G,*,stop gained,,1
+10,G,A,missense,,1
+10,G,V,missense,,2
+10,G,,inframe deletion,variant of uncertain significance,3
+10,G,GG,insertion,pathogenic,4
+10,G,R,missense,,2
+11,A,,frameshift,variant of uncertain significance,3
+11,A,G,missense,,2
+11,A,GP,-,pathogenic,3
+11,A,S,missense,variant of uncertain significance,3
+11,A,V,missense,,2
+12,G,A,missense,pathogenic,19
+12,G,C,missense,pathogenic,24
+12,G,C,missense,pathogenic,4
+12,G,D,missense,pathogenic,42
+12,G,R,missense,pathogenic,18
+12,G,S,missense,pathogenic,22
+12,G,V,missense,pathogenic,24
+13,G,A,missense,pathogenic,2
+13,G,C,missense,pathogenic,13
+13,G,D,missense,pathogenic,30
+13,GV,DI,missense,,1
+13,G,R,missense,,1
+13,G,R,missense,pathogenic,11
+13,G,R,missense,pathogenic,3
+13,G,S,missense,pathogenic,2
+13,G,V,missense,pathogenic,9
+14,V,E,missense,,1
+14,V,G,missense,,2
+14,V,I,missense,pathogenic,17
+14,V,L,missense,pathogenic,3
+15,G,A,missense,likely pathogenic,1
+15,G,C,missense,variant of uncertain significance,3
+15,G,D,missense,likely pathogenic,2
+15,G,R,missense,variant of uncertain significance,1
+15,G,S,missense,variant of uncertain significance,2
+15,G,V,missense,likely pathogenic,4
+16,K,N,missense,,1
+17,S,I,missense,variant of uncertain significance,3
+17,S,N,missense,variant of uncertain significance,2
+17,S,R,missense,,2
+17,S,T,missense,variant of uncertain significance,2
+18,A,G,missense,pathogenic,2
+18,A,P,missense,,1
+18,A,T,missense,,2
+18,A,V,missense,pathogenic,5
+19,L,F,missense,pathogenic,14
+19,L,M,missense,,2
+20,T,A,missense,variant of uncertain significance,4
+20,T,M,missense,,2
+20,T,R,missense,,4
+20,T,S,missense,variant of uncertain significance,2
+21,I,K,missense,variant of uncertain significance,3
+21,I,L,missense,,1
+21,I,R,missense,variant of uncertain significance,4
+22,Q,*,missense,pathogenic,2
+22,Q,E,missense,pathogenic,5
+22,Q,H,missense,likely benign,2
+22,Q,K,missense,pathogenic,15
+22,Q,L,missense,pathogenic,5
+22,Q,P,missense,variant of uncertain significance,3
+22,Q,R,missense,pathogenic,12
+23,L,Q,missense,likely pathogenic,1
+23,L,R,missense,likely pathogenic,7
+23,L,V,missense,,1
+24,I,F,missense,,1
+24,I,N,missense,,3
+25,Q,H,missense,likely benign,2
+25,QN,,inframe deletion,variant of uncertain significance,3
+25,Q,*,missense,,2
+25,Q,E,missense,,1
+25,Q,L,missense,variant of uncertain significance,3
+25,Q,R,missense,variant of uncertain significance,4
+26,N,H,missense,variant of uncertain significance,4
+26,N,I,missense,variant of uncertain significance,2
+26,N,K,missense,,1
+26,N,T,missense,variant of uncertain significance,3
+26,N,Y,missense,variant of uncertain significance,6
+27,H,D,missense,,1
+27,H,L,missense,variant of uncertain significance,5
+27,H,R,missense,variant of uncertain significance,3
+27,H,Y,missense,,2
+28,F,,frameshift,variant of uncertain significance,3
+28,F,L,missense,variant of uncertain significance,3
+29,V,E,missense,,1
+30,D,E,missense,benign,8
+30,D,H,missense,,1
+30,D,N,missense,,2
+30,D,Y,missense,,1
+31,E,*,stop gained,variant of uncertain significance,3
+31,E,K,missense,variant of uncertain significance,2
+31,E,Q,missense,variant of uncertain significance,2
+32,Y,*,stop gained,,1
+32,Y,D,missense,,1
+32,Y,N,missense,,1
+32,Y,S,missense,variant of uncertain significance,3
+33,D,E,missense,variant of uncertain significance,4
+33,D,G,missense,variant of uncertain significance,4
+33,D,H,missense,,1
+33,D,N,missense,,2
+33,D,V,missense,variant of uncertain significance,1
+33,D,Y,missense,,1
+34,P,A,missense,,1
+34,P,L,missense,pathogenic,14
+34,P,Q,missense,pathogenic,6
+34,P,R,missense,pathogenic,14
+34,P,S,missense,,2
+34,P,T,missense,,4
+35,T,A,missense,,2
+35,T,K,missense,,1
+35,T,R,missense,,1
+36,I,K,missense,variant of uncertain significance,4
+36,I,M,missense,pathogenic,12
+36,I,V,missense,variant of uncertain significance,4
+37,E,,frameshift,variant of uncertain significance,3
+37,E,,frameshift,variant of uncertain significance,3
+37,E,*,stop gained,variant of uncertain significance,3
+37,E,D,missense,,1
+37,E,K,missense,variant of uncertain significance,2
+37,E,Q,missense,variant of uncertain significance,1
+38,D,E,missense,,1
+38,D,H,missense,variant of uncertain significance,1
+38,D,N,missense,variant of uncertain significance,2
+38,D,V,missense,,1
+38,D,Y,missense,variant of uncertain significance,2
+39,S,C,missense,,1
+39,S,F,missense,,1
+39,S,T,missense,,1
+40,Y,*,stop gained,likely benign,1
+40,Y,H,missense,,1
+41,R,G,missense,variant of uncertain significance,3
+41,R,S,missense,,1
+41,R,T,missense,,1
+42,K,N,missense,likely benign,1
+43,Q,*,stop gained,,1
+43,Q,E,missense,,1
+43,Q,L,missense,,1
+44,V,A,missense,,1
+44,V,E,missense,,2
+44,V,G,missense,,1
+44,V,I,missense,,2
+44,V,L,missense,,1
+45,V,E,missense,,1
+45,V,L,missense,,1
+46,I,L,missense,variant of uncertain significance,1
+46,I,M,missense,,1
+46,I,V,missense,variant of uncertain significance,3
+47,D,G,missense,variant of uncertain significance,4
+47,D,H,missense,,1
+47,D,N,missense,,1
+47,D,V,missense,variant of uncertain significance,1
+47,D,Y,missense,,1
+48,G,*,stop gained,,1
+48,G,A,missense,,2
+48,G,E,missense,,2
+48,G,R,missense,,1
+48,G,V,missense,,1
+49,E,D,missense,,1
+49,E,K,missense,,2
+49,E,Q,missense,,1
+50,T,A,missense,likely pathogenic,5
+50,T,I,missense,likely pathogenic,7
+50,T,P,missense,likely pathogenic,5
+50,T,S,missense,likely pathogenic,1
+50,T,S,missense,likely pathogenic,4
+51,C,*,missense,variant of uncertain significance,2
+51,C,F,missense,variant of uncertain significance,1
+51,C,R,missense,,2
+51,C,S,missense,variant of uncertain significance,5
+51,C,W,missense,variant of uncertain significance,3
+51,C,Y,missense,variant of uncertain significance,1
+52,L,F,missense,variant of uncertain significance,5
+52,L,H,missense,,1
+52,L,V,missense,variant of uncertain significance,1
+53,L,*,stop gained,,1
+53,C,A,missense,,4
+53,L,F,missense,,2
+53,L,M,missense,,1
+54,D,E,missense,,1
+54,D,H,missense,,1
+54,D,N,missense,,2
+54,D,Y,missense,,1
+55,I,F,missense,,1
+55,I,S,missense,variant of uncertain significance,4
+55,I,V,missense,,1
+56,L,F,missense,,1
+56,L,H,missense,,1
+56,L,I,missense,,1
+56,L,P,missense,,1
+56,L,V,missense,,1
+57,D,E,missense,likely benign,2
+57,D,G,missense,,1
+57,D,H,missense,,1
+57,D,N,missense,,4
+57,D,V,missense,,1
+57,D,Y,missense,,2
+58,TAGQEEYSAMRDQY,,insertion,likely pathogenic,3
+58,T,A,missense,,1
+58,T,I,missense,pathogenic,11
+58,T,R,missense,pathogenic,2
+58,T,S,missense,,1
+59,A,E,missense,,5
+59,A,G,missense,,5
+59,A,L,missense,likely pathogenic,3
+59,A,P,missense,pathogenic,1
+59,A,S,missense,pathogenic,5
+59,A,T,missense,pathogenic,6
+59,A,V,missense,,8
+60,G,A,missense,pathogenic,2
+60,G,C,missense,pathogenic,1
+60,G,R,missense,pathogenic,12
+60,G,S,missense,pathogenic,10
+60,G,V,missense,pathogenic,8
+61,Q,*,stop gained,pathogenic,1
+61,Q,E,missense,pathogenic,5
+61,Q,H,missense,pathogenic,23
+61,Q,K,missense,pathogenic,8
+61,Q,K,missense,pathogenic,9
+61,Q,L,missense,pathogenic,12
+61,Q,P,missense,pathogenic,7
+61,Q,R,missense,,1
+61,Q,R,missense,pathogenic,14
+62,E,*,stop gained,,1
+62,E,D,missense,likely benign,2
+62,E,K,missense,,3
+62,E,Q,missense,,2
+63,E,,inframe deletion,likely pathogenic,4
+63,E,*,missense,variant of uncertain significance,2
+63,E,D,missense,likely pathogenic,8
+63,E,K,missense,variant of uncertain significance,7
+63,E,Q,missense,variant of uncertain significance,2
+64,Y,*,stop gained,,1
+64,Y,C,missense,variant of uncertain significance,2
+64,Y,D,missense,variant of uncertain significance,5
+64,Y,F,missense,variant of uncertain significance,1
+64,Y,N,missense,variant of uncertain significance,8
+64,YS,RAMRDQY,insertion,pathogenic,3
+64,Y,S,missense,variant of uncertain significance,4
+65,S,C,missense,,1
+65,S,I,missense,likely pathogenic,6
+65,S,N,missense,likely pathogenic,2
+65,S,R,missense,,1
+65,S,T,missense,likely pathogenic,1
+66,AM,DLL,insertion,pathogenic,3
+66,AMRDQYMRT,,insertion,likely pathogenic,3
+66,A,G,missense,,1
+66,AM,GQEEYSA,insertion,likely pathogenic,3
+66,A,P,missense,variant of uncertain significance,1
+66,A,S,missense,variant of uncertain significance,5
+66,A,T,missense,variant of uncertain significance,1
+66,A,V,missense,,1
+67,M,I,missense,,3
+67,M,K,missense,,1
+67,M,L,missense,,1
+67,M,R,missense,,1
+68,R,G,missense,likely pathogenic,3
+68,R,K,missense,,2
+68,R,T,missense,,1
+68,R,W,missense,likely pathogenic,4
+68,R,,inframe deletion,likely pathogenic,3
+68,R,M,missense,,5
+69,D,E,missense,,1
+69,D,H,missense,,1
+69,D,N,missense,,1
+69,D,V,missense,,1
+69,D,Y,missense,,1
+70,Q,*,stop gained,,1
+70,Q,E,missense,,1
+70,Q,H,missense,,2
+70,Q,K,missense,,1
+71,Y,*,stop gained,,1
+71,Y,D,missense,pathogenic,5
+71,Y,F,missense,,1
+71,Y,H,missense,pathogenic,5
+71,Y,S,missense,,1
+72,M,I,missense,,5
+72,M,K,missense,,1
+72,M,L,missense,pathogenic,8
+73,R,G,missense,,1
+73,R,K,missense,,1
+73,R,M,missense,,2
+73,R,S,missense,,2
+73,R,T,missense,,1
+73,R,W,missense,,1
+74,T,A,missense,likely pathogenic,3
+74,T,I,missense,likely pathogenic,5
+74,T,P,missense,likely pathogenic,7
+74,T,S,missense,likely pathogenic,1
+74,T,S,missense,likely pathogenic,2
+75,G,A,missense,,2
+75,G,E,missense,,2
+75,G,R,missense,,1
+75,G,V,missense,,3
+76,E,*,stop gained,,1
+76,E,D,missense,variant of uncertain significance,3
+76,EG,GG,frameshift,,1
+76,E,K,missense,,1
+77,G,A,missense,variant of uncertain significance,3
+77,G,C,missense,likely pathogenic,4
+77,G,D,missense,variant of uncertain significance,3
+77,G,R,missense,likely pathogenic,1
+77,G,S,missense,likely pathogenic,5
+77,G,V,missense,variant of uncertain significance,5
+78,F,I,missense,,1
+78,F,L,missense,,1
+78,F,L,missense,likely benign,1
+78,F,S,missense,,1
+78,F,V,missense,,1
+79,L,F,missense,,1
+79,L,H,missense,,1
+79,L,P,missense,,1
+79,L,V,missense,,1
+80,C,*,stop gained,,1
+81,V,A,missense,,1
+81,V,E,missense,,1
+81,V,I,missense,,1
+81,V,L,missense,,1
+82,F,I,missense,,1
+82,F,L,missense,,1
+83,A,D,missense,,1
+83,A,G,missense,,1
+83,A,P,missense,,1
+83,A,S,missense,,1
+83,A,T,missense,,1
+83,A,V,missense,,1
+84,I,K,missense,,1
+84,I,T,missense,,1
+84,I,V,missense,variant of uncertain significance,5
+85,N,S,missense,,1
+86,N,H,missense,,1
+86,N,S,missense,,1
+87,T,I,missense,,1
+87,T,N,missense,,1
+87,T,S,missense,,1
+88,K,,frameshift,variant of uncertain significance,3
+88,K,E,missense,,1
+88,K,I,missense,,1
+88,K,N,missense,benign,4
+89,S,*,stop gained,,1
+89,S,L,missense,,2
+90,F,I,missense,,1
+90,F,L,missense,,1
+90,F,Y,missense,variant of uncertain significance,4
+91,E,D,missense,,1
+91,E,Q,missense,,1
+92,D,E,missense,,1
+92,D,H,missense,variant of uncertain significance,1
+92,D,N,missense,variant of uncertain significance,1
+92,D,Y,missense,variant of uncertain significance,3
+93,I,F,missense,,2
+93,I,N,missense,,1
+94,H,D,missense,,1
+94,H,L,missense,,1
+94,H,Q,missense,,1
+94,H,R,missense,,1
+95,H,D,missense,variant of uncertain significance,1
+95,H,N,missense,variant of uncertain significance,5
+95,H,Q,missense,,1
+95,H,Y,missense,variant of uncertain significance,5
+96,Y,*,stop gained,,1
+96,Y,H,missense,,1
+96,Y,N,missense,,1
+97,R,G,missense,,1
+97,R,I,missense,likely pathogenic,2
+97,R,K,missense,likely pathogenic,4
+97,R,S,missense,,1
+97,R,T,missense,likely pathogenic,1
+98,E,D,missense,,1
+99,Q,*,stop gained,,1
+99,Q,E,missense,,2
+100,I,M,missense,,1
+100,I,N,missense,,1
+100,I,T,missense,,1
+101,K,*,stop gained,,1
+101,K,I,missense,,1
+102,R,G,missense,,1
+102,R,K,missense,,1
+102,R,S,missense,,1
+103,V,D,missense,,1
+104,K,*,stop gained,,1
+104,K,E,missense,,1
+104,K,M,missense,,1
+104,K,N,missense,,2
+104,K,Q,missense,,1
+105,D,E,missense,likely benign,1
+105,D,H,missense,,1
+105,D,N,missense,,1
+105,D,V,missense,,1
+105,D,Y,missense,,1
+106,S,P,missense,,1
+106,S,T,missense,,1
+107,E,D,missense,,1
+107,E,G,missense,,1
+107,E,K,missense,,2
+107,E,Q,missense,,1
+108,D,E,missense,variant of uncertain significance,4
+108,D,H,missense,variant of uncertain significance,2
+108,D,N,missense,variant of uncertain significance,3
+108,D,V,missense,,1
+108,D,Y,missense,variant of uncertain significance,6
+109,V,E,missense,variant of uncertain significance,4
+109,V,I,missense,variant of uncertain significance,4
+109,V,L,missense,variant of uncertain significance,2
+110,P,A,missense,,1
+110,P,S,missense,,3
+111,M,I,missense,,1
+111,M,K,missense,variant of uncertain significance,1
+111,M,L,missense,variant of uncertain significance,1
+111,M,T,missense,variant of uncertain significance,4
+111,M,V,missense,variant of uncertain significance,7
+112,V,I,missense,,3
+112,V,L,missense,,2
+113,L,Q,missense,,1
+114,V,E,missense,,1
+114,V,I,missense,,2
+114,V,L,missense,,1
+115,G,A,missense,,1
+115,G,E,missense,,2
+115,G,R,missense,,2
+115,G,V,missense,,1
+116,N,H,missense,pathogenic,5
+116,N,K,missense,likely benign,1
+116,N,S,missense,likely pathogenic,5
+116,N,T,missense,likely pathogenic,1
+117,K,*,stop gained,,2
+117,K,E,missense,,2
+117,K,I,missense,likely pathogenic,2
+117,K,N,missense,pathogenic,19
+117,K,T,missense,likely pathogenic,3
+118,C,*,stop gained,,1
+118,C,F,missense,,1
+118,C,R,missense,variant of uncertain significance,5
+118,C,S,missense,,3
+118,C,Y,missense,,1
+119,D,E,missense,,1
+119,A,G,missense,,1
+119,D,H,missense,likely pathogenic,3
+119,D,N,missense,likely pathogenic,8
+119,D,V,missense,,1
+120,L,*,missense,,2
+120,L,F,missense,,1
+120,L,M,missense,likely benign,1
+121,P,A,missense,,1
+121,P,H,missense,,2
+121,P,L,missense,,1
+121,P,R,missense,,1
+121,P,S,missense,,1
+121,P,T,missense,,1
+122,S,C,missense,variant of uncertain significance,5
+122,S,F,missense,variant of uncertain significance,2
+122,S,T,missense,,1
+122,S,Y,missense,variant of uncertain significance,1
+123,R,*,missense,,3
+123,R,I,missense,variant of uncertain significance,2
+123,R,K,missense,variant of uncertain significance,1
+123,R,S,missense,,1
+123,R,T,missense,variant of uncertain significance,1
+124,T,A,missense,,3
+124,T,I,missense,variant of uncertain significance,4
+124,T,P,missense,,3
+124,T,R,missense,variant of uncertain significance,1
+124,T,S,missense,,3
+125,V,A,missense,,1
+125,V,E,missense,,1
+125,V,I,missense,variant of uncertain significance,5
+125,V,L,missense,variant of uncertain significance,1
+126,D,E,missense,,2
+126,D,H,missense,,1
+126,D,N,missense,,1
+126,D,V,missense,,2
+126,D,Y,missense,,1
+127,T,R,missense,variant of uncertain significance,5
+127,T,S,missense,,1
+128,K,I,missense,,2
+128,K,N,missense,,1
+128,K,R,missense,,2
+129,Q,*,missense,,2
+129,Q,H,missense,,1
+129,Q,R,missense,,1
+130,A,D,missense,variant of uncertain significance,3
+130,A,G,missense,variant of uncertain significance,3
+130,A,I,missense,variant of uncertain significance,5
+130,A,P,missense,,2
+130,A,S,missense,,2
+130,A,T,missense,,2
+130,A,V,missense,variant of uncertain significance,10
+131,Q,*,stop gained,,1
+131,Q,E,missense,,2
+131,Q,H,missense,,2
+131,Q,L,missense,,1
+131,Q,R,missense,,1
+132,D,A,missense,,1
+132,D,E,missense,,1
+132,D,H,missense,,1
+132,D,N,missense,,1
+132,D,V,missense,,1
+133,L,*,stop gained,,1
+133,L,I,missense,,1
+134,A,G,missense,variant of uncertain significance,5
+134,A,P,missense,variant of uncertain significance,1
+134,A,S,missense,variant of uncertain significance,1
+134,A,T,missense,variant of uncertain significance,5
+134,A,V,missense,variant of uncertain significance,3
+135,R,*,stop gained,,1
+135,R,K,missense,,2
+135,R,T,missense,,4
+136,S,I,missense,variant of uncertain significance,3
+136,S,N,missense,variant of uncertain significance,10
+136,S,R,missense,,1
+136,S,T,missense,variant of uncertain significance,3
+137,Y,*,stop gained,likely benign,3
+137,Y,F,missense,,1
+137,Y,H,missense,,1
+138,G,A,missense,variant of uncertain significance,2
+138,G,E,missense,variant of uncertain significance,3
+138,G,R,missense,,3
+138,G,V,missense,variant of uncertain significance,2
+140,P,A,missense,variant of uncertain significance,1
+140,P,H,missense,,2
+140,P,L,missense,,1
+140,P,R,missense,,1
+140,P,S,missense,variant of uncertain significance,5
+140,P,T,missense,variant of uncertain significance,1
+141,F,I,missense,,1
+141,F,L,missense,,4
+141,F,Y,missense,,1
+142,I,T,missense,,1
+143,E,*,stop gained,,1
+143,E,D,missense,,1
+143,E,G,missense,,2
+143,E,K,missense,,2
+143,E,Q,missense,,1
+143,E,V,missense,,1
+144,T,A,missense,,1
+144,T,I,missense,,1
+144,T,R,missense,,1
+144,T,S,missense,,1
+145,S,*,stop gained,,1
+145,S,L,missense,,2
+145,S,T,missense,,1
+146,A,E,missense,pathogenic,2
+146,A,G,missense,pathogenic,2
+146,A,P,missense,pathogenic,9
+146,A,S,missense,pathogenic,7
+146,A,T,missense,pathogenic,15
+146,A,V,missense,pathogenic,12
+147,K,E,missense,pathogenic,7
+147,K,M,missense,likely pathogenic,3
+147,K,N,missense,likely pathogenic,5
+147,K,R,missense,pathogenic,4
+148,T,R,missense,variant of uncertain significance,4
+148,T,S,missense,,2
+149,R,*,stop gained,likely pathogenic,4
+149,R,K,missense,,2
+149,R,S,missense,,2
+149,R,T,missense,,1
+150,Q,*,missense,,2
+150,Q,E,missense,,1
+150,Q,H,missense,,1
+150,Q,L,missense,,1
+150,Q,R,missense,,1
+151,R,*,stop gained,,1
+151,R,K,missense,,1
+151,R,S,missense,,1
+151,R,T,missense,,2
+152,V,A,missense,,1
+152,V,E,missense,,1
+152,V,G,missense,,1
+152,V,M,missense,,1
+153,E,A,missense,pathogenic,4
+153,E,K,missense,,1
+153,E,Q,missense,,1
+153,E,V,missense,pathogenic,5
+154,D,G,missense,variant of uncertain significance,2
+154,D,H,missense,,2
+154,D,N,missense,,2
+154,D,V,missense,variant of uncertain significance,5
+154,D,Y,missense,,2
+155,A,D,missense,,2
+155,A,G,missense,,1
+155,A,T,missense,,2
+155,A,V,missense,,1
+156,F,L,missense,,1
+157,Y,H,missense,,1
+158,T,I,missense,,2
+158,T,P,missense,,2
+158,T,R,missense,,2
+158,T,S,missense,,2
+159,L,F,missense,,1
+159,L,S,missense,,1
+160,V,A,missense,,1
+160,V,L,missense,variant of uncertain significance,3
+160,V,M,missense,variant of uncertain significance,7
+161,R,=,-,benign,5
+161,R,S,missense,benign,5
+162,E,D,missense,,1
+163,I,M,missense,,1
+163,I,N,missense,,1
+163,I,S,missense,,1
+163,I,V,missense,,1
+164,R,*,stop gained,likely pathogenic,6
+164,R,G,missense,likely pathogenic,2
+164,R,L,missense,likely benign,3
+164,R,P,missense,likely benign,3
+164,R,Q,missense,likely benign,9
+165,Q,*,stop gained,,2
+165,Q,E,missense,,2
+165,Q,H,missense,,1
+165,Q,R,missense,,3
+166,Y,*,stop gained,,1
+166,Y,H,missense,likely benign,8
+166,Y,N,missense,likely benign,7
+167,R,G,missense,,1
+167,R,I,missense,likely benign,1
+167,R,T,missense,likely benign,4
+168,L,*,stop gained,,3
+168,L,F,missense,,1
+168,L,M,missense,,1
+168,L,V,missense,,1
+169,K,E,missense,,1
+170,K,E,missense,,1
+170,K,N,missense,,1
+170,K,T,missense,,1
+171,IS,CTCGGC,insertion,,1
+171,I,M,missense,,3
+171,I,T,missense,variant of uncertain significance,5
+172,S,C,missense,,2
+172,S,I,missense,,1
+172,S,N,missense,,1
+172,S,R,missense,,1
+172,S,T,missense,,1
+173,K,R,missense,,1
+174,E,*,stop gained,,2
+174,E,K,missense,,2
+174,E,Q,missense,,2
+175,E,*,stop gained,,1
+175,E,D,missense,likely benign,1
+175,E,K,missense,,1
+175,E,Q,missense,,1
+176,K,M,missense,,1
+176,K,N,missense,,1
+176,K,R,missense,,1
+177,T,S,missense,,1
+177,T,S,missense,,1
+178,P,A,missense,,2
+178,P,L,missense,,1
+178,P,R,missense,,1
+178,P,S,missense,,2
+178,P,T,missense,,2
+179,G,A,missense,,1
+179,G,A,missense,pathogenic,7
+179,G,C,missense,benign,5
+179,G,D,missense,,1
+179,G,R,missense,benign,5
+179,G,S,missense,benign,11
+179,G,V,missense,,1
+180,C,*,stop gained,benign,10
+180,C,S,missense,,1
+180,C,S,missense,,1
+180,C,Y,missense,,1
+181,V,A,missense,,1
+181,V,E,missense,,1
+181,V,M,missense,,1
+182,K,E,missense,,1
+183,I,V,missense,,3
+184,K,*,stop gained,,4
+184,KK,GACCAGTACCCGCCCCCC,-,,1
+186,CI,AAGTACAGTGCAATGAGG,insertion,,1
+186,C,S,missense,,1
+186,C,W,missense,likely benign,2
+186,C,Y,missense,,1
+187,I,F,missense,variant of uncertain significance,2
+187,I,N,missense,variant of uncertain significance,1
+187,I,T,missense,variant of uncertain significance,4
+187,I,V,missense,variant of uncertain significance,5
+188,I,M,missense,,1
+188,I,V,missense,variant of uncertain significance,7
+189,M,I,missense,,1
+189,M,L,missense,benign,9
+190,*,L,stop lost,,1
+190,*,Y,stop lost,,1
+204,G,T,missense,,3
+262,A,T,missense,,3
+268,T,C,missense,,1
+292,G,T,missense,,3
+296,A,T,missense,,1
+340,G,T,missense,,1
+350,A,G,missense,,2
+405,,,inframe deletion,,1
+472,A,G,missense,,1
+511,,,frameshift,,1
+526,A,C,missense,,1
